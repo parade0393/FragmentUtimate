@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_item_cloth"
+        android:title="服装"
+        android:icon="@drawable/ic_clothes"/>
+
+    <item android:id="@+id/menu_item_food"
+        android:title="美食"
+        android:icon="@drawable/ic_food"/>
+
+    <item android:id="@+id/menu_item_hotel"
+        android:title="住宿"
+        android:icon="@drawable/ic_hotel"/>
+</menu>
